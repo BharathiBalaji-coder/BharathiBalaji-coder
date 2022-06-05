@@ -13,3 +13,4 @@ Skills: Selenium, Appium, Rest Assured, Docker, Jenkins, Git, Microservices, Ope
 - 📫 How to reach me:rangarajbharathibalaji@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact:Learner
+[![Bharathi Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=BharathiBalaji-coder)](https://github.com/BharathiBalaji-coder/github-readme-stats)
