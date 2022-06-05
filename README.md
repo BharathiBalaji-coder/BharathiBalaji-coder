@@ -26,3 +26,5 @@ What I Learn
 ☁️ Azure DevOps, GitHub, Jenkins
 📚 Cucumber, TestNG,Rest-Assured
 📊 Cucumber MVN Report, Extent Report, Allure Report
+
+https://github-readme-stats.vercel.app/api?username=BharathiBalaji-coder)](https://github.com/BharathiBalaji-coder/github-readme-stats
