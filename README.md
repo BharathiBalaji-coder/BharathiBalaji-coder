@@ -5,7 +5,6 @@ Hello! My name is Bharathi Balaji. I have 11+ years of experience in IT industry
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 Skills: Selenium, Appium, Rest Assured, Docker, Jenkins, Git, Microservices, Openshift, Postman, SoapUI, Java
 - 🌱 I’m currently working on Selenium Java
 - 👯 I’m looking to collaborate on Selenium
@@ -13,5 +12,4 @@ Skills: Selenium, Appium, Rest Assured, Docker, Jenkins, Git, Microservices, Ope
 - 💬 Ask me about Selenium, Appium, Rest Assured, Jenkins Docker
 - 📫 How to reach me:rangarajbharathibalaji@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: ... Learner
--->
+- ⚡ Fun fact:Learner
