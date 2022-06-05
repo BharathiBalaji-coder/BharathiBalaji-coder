@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi I'm  Bharathi Balaji👋
 
 <!--
-Hello! My name is Bharathi Balaji. I have 11+ years of experience in IT industry as a Software Tester.Currently working as Test Automation Engineer for *iInterChange Systems Private Limited*. Has worked on Linux and windows based apps for Banking and Shipping domain. Used Shell scripting, Postman, Java, selenium for automation.So here to share with you what I have learned.
+Hello! I have 11+ years of experience in IT industry as a Software Tester.Currently working as Test Automation Engineer for *iInterChange Systems Private Limited*. Has worked on Banking and Shipping domain. Used Linux Shell scripting, Postman, Java, selenium for automation.So here to share with you what I have learned.
 
 Here are some ideas to get you started:
 
-Skills: Selenium, Appium, Rest Assured, Docker, Jenkins, Git, Microservices, Openshift, Postman, SoapUI, Java
-- 🌱 I’m currently working on Selenium Java
-- 👯 I’m looking to collaborate on Selenium
-- 🤔 I’m looking for help with Java
-- 💬 Ask me about Selenium, Appium, Rest Assured, Jenkins Docker
-- 📫 How to reach me:rangarajbharathibalaji@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact:Learner
-[![Bharathi Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=BharathiBalaji-coder)](https://github.com/BharathiBalaji-coder/github-readme-stats)
+🎓 Bachelor of Engineering in Electrical and Electronics Engineering
+💻 Software Tester
+📖 A Learner
+✍️ Blogger
+ 🌱 I’m currently working on Selenium Java
+👯 I’m looking to collaborate on Selenium
+🤔 I’m looking for help with Java
+💬 Ask me about Selenium, Appium, Rest Assured, Jenkins Docker
+📫 How to reach me:rangarajbharathibalaji@gmail.com
+😄 Pronouns: He/him/his
+⚡ Fun fact:Learner
+
+What I Learn
+♨️ Java, JavaScript
+✅ Selenium Webdriver
+🚀 Postman, Newman
+Ⓜ️ Maven
+🕓 Jmeter, Blazemeter
+☁️ Azure DevOps, GitHub, Jenkins
+📚 Cucumber, TestNG,Rest-Assured
+📊 Cucumber MVN Report, Extent Report, Allure Report
