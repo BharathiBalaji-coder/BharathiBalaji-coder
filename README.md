@@ -13,5 +13,5 @@ Skills: Selenium, Appium, Rest Assured, Docker, Jenkins, Git, Microservices, Ope
 - 💬 Ask me about Selenium, Appium, Rest Assured, Jenkins Docker
 - 📫 How to reach me:rangarajbharathibalaji@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... Learner
 -->
