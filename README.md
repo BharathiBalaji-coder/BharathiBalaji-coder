@@ -1,7 +1,7 @@
 ### Hi I'm  Bharathi Balaji👋
 
 <!--
-Hello! I have 11+ years of experience in IT industry as a Software Tester.Currently working as Test Automation Engineer for *iInterChange Systems Private Limited*. Has worked on Banking and Shipping domain. Used Linux Shell scripting, Postman, Java, selenium for automation.So here to share with you what I have learned.
+Hello! I have 13 years of experience in IT industry as a Software Tester.Currently working as Test Automation Engineer for *Tata Consultancy Services*. Has worked on Banking and Shipping domain. Used Linux Shell scripting, Postman, Java, selenium for automation.So here to share with you what I have learned.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 💬 Ask me about Selenium, Appium, Rest Assured, Jenkins Docker
 📫 How to reach me:rangarajbharathibalaji@gmail.com
 😄 Pronouns: He/him/his
-⚡ Fun fact:Learner
+⚡ Fun fact: Good Learner
 
 What I Learn
 ♨️ Java, JavaScript
