@@ -1,7 +1,7 @@
 ### Hi I'm  Bharathi Balaji👋
 
 <!--
-Hello! I have 13 years of experience in IT industry as a Software Tester.Currently working as Test Automation Engineer for *Tata Consultancy Services*. Has worked on Banking and Shipping domain. Used Linux Shell scripting, Postman, Java, selenium for automation.So here to share with you what I have learned.
+Hello! I have 14 years of experience in IT industry as a Software Tester.Currently working as Test Automation Engineer for *Tata Consultancy Services*. Has worked on Banking and Shipping domain. Used Linux Shell scripting, Postman, Java, selenium for automation.So here to share with you what I have learned.
 
 Here are some ideas to get you started:
 
